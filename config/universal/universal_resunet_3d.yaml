@@ -1,0 +1,91 @@
+# Universal Medical Image Segmentation Configuration
+# Model: Universal ResUNet with 3D segmentation capability
+# 
+# This configuration file defines the training parameters for universal medical image
+# segmentation using a ResUNet architecture with dynamic feature modulation.
+
+#DATA
+data_root: /path/to/datasets  # Path to preprocessed dataset directory
+
+#MODEL
+arch: resunet
+in_chan: 1
+base_chan: 32
+down_scale: [[2,2,2], [2,2,2], [2,2,2], [2,2,2]]
+kernel_size: [[3,3,3], [3,3,3], [3,3,3], [3,3,3], [3,3,3]]
+block: BasicBlock
+num_block: [2, 2, 2, 2] # number of blocks in each stage
+norm: in
+act: elu  # activation function: relu, gelu, or swish
+num_prompts: 8
+prompt_dim: 512
+use_film: false  # Flag to switch between FiLM and dynamic convolution
+
+#TRAIN
+epochs: 400
+training_size: [128, 128, 128] # training crop size
+start_epoch: 0
+num_workers: 8
+aug_device: 'cpu'
+
+# Dataset configuration
+# Supports multiple medical imaging datasets with varying number of classes
+dataset_name_list: ['structseg_head_oar','amos_ct', 'amos_mr', 'bcv', 'structseg_oar', 'lits', 'kits', 'mnm', 'brain_structure', 'autopet', 'chaos']
+dataset_classes_list: [22, 15, 13, 13, 6, 2, 2, 3, 3, 1, 4] # number of classes per dataset (excluding background)
+
+split_seed: 0
+k_fold: 1
+
+multiprocessing_distributed: False
+distributed: False
+
+# Text embedding paths - update these paths to match your setup
+# These files should be generated during data preprocessing
+emb_pth: './text_embeddings.pth'
+meta_pth: './text_metadata.json'
+emb_mod_pth: './modality_embeddings.pth'
+
+# Optimizer configuration - LAMB optimizer with cosine restart scheduling
+optimizer: lamb
+base_lr: 0.002
+lora_lr_multiplier: 10  # LoRA learning rate will be 10x base_lr
+betas: [0.9, 0.999]
+warmup_epoch: 0
+weight_decay: 0.00001
+scheduler: 'cosine_restart'
+restart_epoch: 200
+restart_warmup_length: 10
+rlt: 1
+loss_mod_weight: 0.01
+
+# Data augmentation parameters
+scale: [0.3, 0.3, 0.3]  # scale for data augmentation
+rotate: [30, 30, 30]    # rotation angle for data augmentation 
+translate: [0, 0, 0]
+gaussian_noise_std: 0.02
+
+print_freq: 50
+iter_per_epoch: 400
+
+#VALIDATION
+ema: True
+ema_alpha: 0.99
+val_freq: 25
+
+#INFERENCE
+sliding_window: True
+window_size: [128, 128, 128]
+
+# Distributed training parameters
+world_size: 1
+proc_idx: 0
+rank: 0
+port: 10008
+dist_url: 'tcp://localhost:10008'
+dist_backend: "nccl"
+reproduce_seed: null
+
+# Training options:
+# - Use --use_film flag to enable FiLM feature modulation instead of dynamic convolution
+# - Use --gradient_accumulation to specify gradient accumulation steps
+# - Use --unique_name to set experiment name for logging

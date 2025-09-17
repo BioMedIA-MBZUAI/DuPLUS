@@ -1,0 +1,41 @@
+# Universal Medical Image Segmentation - Requirements
+# 
+# This file lists the minimum required packages for training the universal
+# medical image segmentation model. Install with: pip install -r requirements.txt
+#
+# Tested with Python 3.8+
+
+# Core deep learning framework
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Medical imaging library with optimized data loaders and transforms  
+monai>=1.0.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Image processing
+scipy>=1.7.0
+
+# Distributed training
+# (torch.distributed is included with PyTorch)
+
+# Configuration and logging
+pyyaml>=6.0
+tensorboard>=2.8.0
+
+# Data handling
+h5py>=3.7.0
+einops>=0.6.0
+
+# Optional: For faster data loading (if available)
+# opencv-python>=4.5.0
+
+# Development tools (optional)
+# tqdm>=4.64.0
+
+# Note: CUDA-compatible PyTorch should be installed based on your system
+# For CUDA 11.8: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# For CPU-only: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu

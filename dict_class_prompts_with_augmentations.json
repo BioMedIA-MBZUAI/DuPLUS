@@ -1,0 +1,672 @@
+{
+    "bcv": [
+        [
+            "A computed tomography scan of a spleen.",
+            "There is spleen in this computed tomography scan.",
+            "spleen observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a spleen.",
+            "Identification of a spleen through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightkidney.",
+            "There is rightkidney in this computed tomography scan.",
+            "rightkidney observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightkidney.",
+            "Identification of a rightkidney through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftkidney.",
+            "There is leftkidney in this computed tomography scan.",
+            "leftkidney observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftkidney.",
+            "Identification of a leftkidney through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a gallbladder.",
+            "There is gallbladder in this computed tomography scan.",
+            "gallbladder observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a gallbladder.",
+            "Identification of a gallbladder through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a esophagus.",
+            "There is esophagus in this computed tomography scan.",
+            "esophagus observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a esophagus.",
+            "Identification of a esophagus through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a liver.",
+            "There is liver in this computed tomography scan.",
+            "liver observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a liver.",
+            "Identification of a liver through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a stomach.",
+            "There is stomach in this computed tomography scan.",
+            "stomach observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a stomach.",
+            "Identification of a stomach through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a aorta.",
+            "There is aorta in this computed tomography scan.",
+            "aorta observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a aorta.",
+            "Identification of a aorta through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a postcava.",
+            "There is postcava in this computed tomography scan.",
+            "postcava observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a postcava.",
+            "Identification of a postcava through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a portal vein and splenic vein.",
+            "There is portal vein and splenic vein in this computed tomography scan.",
+            "portal vein and splenic vein observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a portal vein and splenic vein.",
+            "Identification of a portal vein and splenic vein through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a pancreas.",
+            "There is pancreas in this computed tomography scan.",
+            "pancreas observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a pancreas.",
+            "Identification of a pancreas through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightadrenalgland.",
+            "There is rightadrenalgland in this computed tomography scan.",
+            "rightadrenalgland observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightadrenalgland.",
+            "Identification of a rightadrenalgland through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftadrenalgland.",
+            "There is leftadrenalgland in this computed tomography scan.",
+            "leftadrenalgland observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftadrenalgland.",
+            "Identification of a leftadrenalgland through computed tomography scan."
+        ]
+    ],
+    "lits": [
+        [
+            "A computed tomography scan of a liver.",
+            "There is liver in this computed tomography scan.",
+            "liver observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a liver.",
+            "Identification of a liver through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a livertumor.",
+            "There is livertumor in this computed tomography scan.",
+            "livertumor observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a livertumor.",
+            "Identification of a livertumor through computed tomography scan."
+        ]
+    ],
+    "kits": [
+        [
+            "A computed tomography scan of a rightkidney and leftkidney.",
+            "There is rightkidney and leftkidney in this computed tomography scan.",
+            "rightkidney and leftkidney observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightkidney and leftkidney.",
+            "Identification of a rightkidney and leftkidney through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a kidneytumor.",
+            "There is kidneytumor in this computed tomography scan.",
+            "kidneytumor observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a kidneytumor.",
+            "Identification of a kidneytumor through computed tomography scan."
+        ]
+    ],
+    "amos_ct": [
+        [
+            "A computed tomography scan of a spleen.",
+            "There is spleen in this computed tomography scan.",
+            "spleen observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a spleen.",
+            "Identification of a spleen through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightkidney.",
+            "There is rightkidney in this computed tomography scan.",
+            "rightkidney observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightkidney.",
+            "Identification of a rightkidney through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftkidney.",
+            "There is leftkidney in this computed tomography scan.",
+            "leftkidney observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftkidney.",
+            "Identification of a leftkidney through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a gallbladder.",
+            "There is gallbladder in this computed tomography scan.",
+            "gallbladder observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a gallbladder.",
+            "Identification of a gallbladder through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a esophagus.",
+            "There is esophagus in this computed tomography scan.",
+            "esophagus observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a esophagus.",
+            "Identification of a esophagus through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a liver.",
+            "There is liver in this computed tomography scan.",
+            "liver observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a liver.",
+            "Identification of a liver through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a stomach.",
+            "There is stomach in this computed tomography scan.",
+            "stomach observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a stomach.",
+            "Identification of a stomach through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a aorta.",
+            "There is aorta in this computed tomography scan.",
+            "aorta observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a aorta.",
+            "Identification of a aorta through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a postcava.",
+            "There is postcava in this computed tomography scan.",
+            "postcava observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a postcava.",
+            "Identification of a postcava through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a pancreas.",
+            "There is pancreas in this computed tomography scan.",
+            "pancreas observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a pancreas.",
+            "Identification of a pancreas through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightadrenalgland.",
+            "There is rightadrenalgland in this computed tomography scan.",
+            "rightadrenalgland observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightadrenalgland.",
+            "Identification of a rightadrenalgland through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftadrenalgland.",
+            "There is leftadrenalgland in this computed tomography scan.",
+            "leftadrenalgland observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftadrenalgland.",
+            "Identification of a leftadrenalgland through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a duodenum.",
+            "There is duodenum in this computed tomography scan.",
+            "duodenum observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a duodenum.",
+            "Identification of a duodenum through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a bladder.",
+            "There is bladder in this computed tomography scan.",
+            "bladder observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a bladder.",
+            "Identification of a bladder through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a prostate/uterus.",
+            "There is prostate/uterus in this computed tomography scan.",
+            "prostate/uterus observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a prostate/uterus.",
+            "Identification of a prostate/uterus through computed tomography scan."
+        ]
+    ],
+    "structseg_oar": [
+        [
+            "A computed tomography scan of a rightlung.",
+            "There is rightlung in this computed tomography scan.",
+            "rightlung observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightlung.",
+            "Identification of a rightlung through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftlung.",
+            "There is leftlung in this computed tomography scan.",
+            "leftlung observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftlung.",
+            "Identification of a left lung through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a heart.",
+            "There is heart in this computed tomography scan.",
+            "heart observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a heart.",
+            "Identification of a heart through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a esophagus.",
+            "There is esophagus in this computed tomography scan.",
+            "esophagus observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a esophagus.",
+            "Identification of a esophagus through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a trachea.",
+            "There is trachea in this computed tomography scan.",
+            "trachea observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a trachea.",
+            "Identification of a trachea through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a spinalcord.",
+            "There is spinalcord in this computed tomography scan.",
+            "spinalcord observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a spinalcord.",
+            "Identification of a spinalcord through computed tomography scan."
+        ]
+    ],
+    "amos_mr": [
+        [
+            "A magnetic resonance imaging scan of a spleen.",
+            "There is spleen in this magnetic resonance imaging scan.",
+            "spleen observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a spleen.",
+            "Identification of a spleen through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a rightkidney.",
+            "There is rightkidney in this magnetic resonance imaging scan.",
+            "rightkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a rightkidney.",
+            "Identification of a rightkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a leftkidney.",
+            "There is leftkidney in this magnetic resonance imaging scan.",
+            "leftkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a leftkidney.",
+            "Identification of a leftkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a gallbladder.",
+            "There is gallbladder in this magnetic resonance imaging scan.",
+            "gallbladder observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a gallbladder.",
+            "Identification of a gallbladder through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a esophagus.",
+            "There is esophagus in this magnetic resonance imaging scan.",
+            "esophagus observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a esophagus.",
+            "Identification of a esophagus through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a liver.",
+            "There is liver in this magnetic resonance imaging scan.",
+            "liver observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a liver.",
+            "Identification of a liver through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a stomach.",
+            "There is stomach in this magnetic resonance imaging scan.",
+            "stomach observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a stomach.",
+            "Identification of a stomach through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a aorta.",
+            "There is aorta in this magnetic resonance imaging scan.",
+            "aorta observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a aorta.",
+            "Identification of a aorta through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a postcava.",
+            "There is postcava in this magnetic resonance imaging scan.",
+            "postcava observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a postcava.",
+            "Identification of a postcava through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a pancreas.",
+            "There is pancreas in this magnetic resonance imaging scan.",
+            "pancreas observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a pancreas.",
+            "Identification of a pancreas through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a rightadrenalgland.",
+            "There is rightadrenalgland in this magnetic resonance imaging scan.",
+            "rightadrenalgland observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a rightadrenalgland.",
+            "Identification of a rightadrenalgland through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a leftadrenalgland.",
+            "There is leftadrenalgland in this magnetic resonance imaging scan.",
+            "leftadrenalgland observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a leftadrenalgland.",
+            "Identification of a leftadrenalgland through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a duodenum.",
+            "There is duodenum in this magnetic resonance imaging scan.",
+            "duodenum observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a duodenum.",
+            "Identification of a duodenum through magnetic resonance imaging scan."
+        ]
+    ],
+    "chaos&&t1_in": [
+        [
+            "A magnetic resonance imaging scan of a liver.",
+            "There is liver in this magnetic resonance imaging scan.",
+            "liver observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a liver.",
+            "Identification of a liver through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a rightkidney.",
+            "There is rightkidney in this magnetic resonance imaging scan.",
+            "rightkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a rightkidney.",
+            "Identification of a rightkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a leftkidney.",
+            "There is leftkidney in this magnetic resonance imaging scan.",
+            "leftkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a leftkidney.",
+            "Identification of a leftkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a spleen.",
+            "There is spleen in this magnetic resonance imaging scan.",
+            "spleen observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a spleen.",
+            "Identification of a spleen through magnetic resonance imaging scan."
+        ]
+    ],
+    "chaos&&t1_out": [
+        [
+            "A magnetic resonance imaging scan of a liver.",
+            "There is liver in this magnetic resonance imaging scan.",
+            "liver observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a liver.",
+            "Identification of a liver through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a rightkidney.",
+            "There is rightkidney in this magnetic resonance imaging scan.",
+            "rightkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a rightkidney.",
+            "Identification of a rightkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a leftkidney.",
+            "There is leftkidney in this magnetic resonance imaging scan.",
+            "leftkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a leftkidney.",
+            "Identification of a leftkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a spleen.",
+            "There is spleen in this magnetic resonance imaging scan.",
+            "spleen observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a spleen.",
+            "Identification of a spleen through magnetic resonance imaging scan."
+        ]
+    ],
+    "chaos&&t2": [
+        [
+            "A magnetic resonance imaging scan of a liver.",
+            "There is liver in this magnetic resonance imaging scan.",
+            "liver observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a liver.",
+            "Identification of a liver through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a rightkidney.",
+            "There is rightkidney in this magnetic resonance imaging scan.",
+            "rightkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a rightkidney.",
+            "Identification of a rightkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a leftkidney.",
+            "There is leftkidney in this magnetic resonance imaging scan.",
+            "leftkidney observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a leftkidney.",
+            "Identification of a leftkidney through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a spleen.",
+            "There is spleen in this magnetic resonance imaging scan.",
+            "spleen observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a spleen.",
+            "Identification of a spleen through magnetic resonance imaging scan."
+        ]
+    ],
+    "mnm": [
+        [
+            "A magnetic resonance imaging scan of a leftventricle.",
+            "There is leftventricle in this magnetic resonance imaging scan.",
+            "leftventricle observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a leftventricle.",
+            "Identification of a leftventricle through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a myocardium.",
+            "There is myocardium in this magnetic resonance imaging scan.",
+            "myocardium observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a myocardium.",
+            "Identification of a myocardium through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a rightventricle.",
+            "There is rightventricle in this magnetic resonance imaging scan.",
+            "rightventricle observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a rightventricle.",
+            "Identification of a rightventricle through magnetic resonance imaging scan."
+        ]
+    ],
+    "brain_structure": [
+        [
+            "A magnetic resonance imaging scan of a graymatter.",
+            "There is graymatter in this magnetic resonance imaging scan.",
+            "graymatter observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a graymatter.",
+            "Identification of a graymatter through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a whitematter.",
+            "There is whitematter in this magnetic resonance imaging scan.",
+            "whitematter observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a whitematter.",
+            "Identification of a whitematter through magnetic resonance imaging scan."
+        ],
+        [
+            "A magnetic resonance imaging scan of a csf.",
+            "There is csf in this magnetic resonance imaging scan.",
+            "csf observed in magnetic resonance imaging scan imaging.",
+            "magnetic resonance imaging scan revealing a csf.",
+            "Identification of a csf through magnetic resonance imaging scan."
+        ]
+    ],
+    "autopet": [
+        [
+            "A positron emission tomography scan of a tumor.",
+            "There is tumor in this positron emission tomography scan.",
+            "tumor observed in positron emission tomography scan imaging.",
+            "positron emission tomography scan revealing a tumor.",
+            "Identification of a tumor through positron emission tomography scan."
+        ]
+    ],
+    "structseg_head_oar": [
+        [
+            "A computed tomography scan of a lefteye.",
+            "There is lefteye in this computed tomography scan.",
+            "lefteye observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a lefteye.",
+            "Identification of a lefteye through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a righteye.",
+            "There is righteye in this computed tomography scan.",
+            "righteye observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a righteye.",
+            "Identification of a righteye through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftlens.",
+            "There is leftlens in this computed tomography scan.",
+            "leftlens observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftlens.",
+            "Identification of a leftlens through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightlens.",
+            "There is rightlens in this computed tomography scan.",
+            "rightlens observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightlens.",
+            "Identification of a rightlens through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftoptical nerve.",
+            "There is leftoptical nerve in this computed tomography scan.",
+            "leftoptical nerve observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftoptical nerve.",
+            "Identification of a leftoptical nerve through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightopticalnerve.",
+            "There is rightopticalnerve in this computed tomography scan.",
+            "rightopticalnerve observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightopticalnerve.",
+            "Identification of a rightopticalnerve through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a optical chiasma.",
+            "There is optical chiasma in this computed tomography scan.",
+            "optical chiasma observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a optical chiasma.",
+            "Identification of a optical chiasma through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a pituitary.",
+            "There is pituitary in this computed tomography scan.",
+            "pituitary observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a pituitary.",
+            "Identification of a pituitary through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a brainstem.",
+            "There is brainstem in this computed tomography scan.",
+            "brainstem observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a brainstem.",
+            "Identification of a brainstem through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a lefttemporallobes.",
+            "There is lefttemporallobes in this computed tomography scan.",
+            "lefttemporallobes observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a lefttemporallobes.",
+            "Identification of a lefttemporallobes through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a righttemporallobes.",
+            "There is righttemporallobes in this computed tomography scan.",
+            "righttemporallobes observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a righttemporallobes.",
+            "Identification of a righttemporallobes through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a spinalcord.",
+            "There is spinalcord in this computed tomography scan.",
+            "spinalcord observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a spinalcord.",
+            "Identification of a spinalcord through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftparotidgland.",
+            "There is leftparotidgland in this computed tomography scan.",
+            "leftparotidgland observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftparotidgland.",
+            "Identification of a leftparotidgland through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a righparotidgland.",
+            "There is righparotidgland in this computed tomography scan.",
+            "righparotidgland observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a righparotidgland.",
+            "Identification of a righparotidgland through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftinnerear.",
+            "There is leftinnerear in this computed tomography scan.",
+            "leftinnerear observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftinnerear.",
+            "Identification of a leftinnerear through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightinnerear.",
+            "There is rightinnerear in this computed tomography scan.",
+            "rightinnerear observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightinnerear.",
+            "Identification of a rightinnerear through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftmiddleear.",
+            "There is leftmiddleear in this computed tomography scan.",
+            "leftmiddleear observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftmiddleear.",
+            "Identification of a leftmiddleear through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightmiddle ear.",
+            "There is rightmiddle ear in this computed tomography scan.",
+            "rightmiddle ear observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightmiddle ear.",
+            "Identification of a rightmiddle ear through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a lefttemporomandibular joint.",
+            "There is lefttemporomandibular joint in this computed tomography scan.",
+            "lefttemporomandibular joint observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a lefttemporomandibular joint.",
+            "Identification of a lefttemporomandibular joint through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a righttemporomandibular joint.",
+            "There is righttemporomandibular joint in this computed tomography scan.",
+            "righttemporomandibular joint observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a righttemporomandibular joint.",
+            "Identification of a righttemporomandibular joint through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a leftmandible.",
+            "There is leftmandible in this computed tomography scan.",
+            "leftmandible observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a leftmandible.",
+            "Identification of a leftmandible through computed tomography scan."
+        ],
+        [
+            "A computed tomography scan of a rightmandible.",
+            "There is rightmandible in this computed tomography scan.",
+            "rightmandible observed in computed tomography scan imaging.",
+            "computed tomography scan revealing a rightmandible.",
+            "Identification of a rightmandible through computed tomography scan."
+        ]
+    ]
+}
