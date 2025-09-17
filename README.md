@@ -6,7 +6,7 @@
 This repository contains the official PyTorch implementation for **DuPLUS**, a novel vision-language framework for universal medical image analysis. DuPLUS uses a unique dual-prompt mechanism to control a single model for segmenting diverse anatomies across multiple modalities and seamlessly extends to prognosis prediction.
 
 
-![DuPLUS Architecture Diagram](figures/DuPLUS.drawio.png)
+![DuPLUS Architecture Diagram](figures/DuPLUS.png)
 *Figure 1: The DuPLUS architecture, showcasing the dual-prompt mechanism for hierarchical text control.*
 
 
