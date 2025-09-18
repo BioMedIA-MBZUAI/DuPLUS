@@ -29,21 +29,20 @@ import os
 
 # Dataset-specific modality prompts for text guidance
 DATASET_MODALITY_PROMPTS = {
-    "bcv": "A computed tomography scan of the abdomen (BCV dataset)",
-    "lits": "A computed tomography scan of the abdomen (LiTS dataset)", 
-    "kits": "A computed tomography scan of the abdomen (KiTS dataset)",
-    "amos_ct": "A computed tomography scan of the abdomen (AMOS dataset)",
-    "structseg_oar": "A computed tomography scan of the thorax (StructSeg OAR dataset)",
-    "structseg_head_oar": "A computed tomography scan of the head and neck (StructSeg Head dataset)",
-    "amos_mr": "A Magnetic Resonance Imaging scan of the abdomen (AMOS dataset)",
-    "chaos&&t1_in": "A T1-weighted in-phase Magnetic Resonance Imaging scan of the abdomen (CHAOS dataset)",
-    "chaos&&t1_out": "A T1-weighted out-of-phase Magnetic Resonance Imaging scan of the abdomen (CHAOS dataset)",
-    "chaos&&t2": "A T2-weighted Magnetic Resonance Imaging scan of the abdomen (CHAOS dataset)", 
-    "mnm": "A cine Magnetic Resonance Imaging scan of the cardiac region (M&Ms dataset)",
-    "brain_structure": "A T1-weighted Magnetic Resonance Imaging scan of the brain (Brain Structure dataset)",
-    "autopet": "A positron emission tomography scan of the whole body (AutoPET dataset)",
-    "hecktor_ct": "A computed tomography scan of the head and neck (Hecktor dataset)",
-    "hecktor_pet": "A positron emission tomography scan of the head and neck (Hecktor dataset)",
+    "bcv": "A computed tomography scan of the abdomen",
+    "lits": "A computed tomography scan of the abdomen", 
+    "kits": "A computed tomography scan of the abdomen",
+    "amos_ct": "A computed tomography scan of the abdomen",
+    "structseg_oar": "A computed tomography scan of the thorax",
+    "amos_mr": "A Magnetic Resonance Imaging scan of the abdomen",
+    "chaos&&t1_in": "A T1-weighted in-phase Magnetic Resonance Imaging scan of the abdomen",
+    "chaos&&t1_out": "A T1-weighted out-of-phase Magnetic Resonance Imaging scan of the abdomen",
+    "chaos&&t2": "A T2-weighted Magnetic Resonance Imaging scan of the abdomen", 
+    "mnm": "A cine Magnetic Resonance Imaging scan of the cardiac region",
+    "brain_structure": "A T1-weighted Magnetic Resonance Imaging scan of the brain",
+    "autopet": "A positron emission tomography scan of the whole body",
+    "hecktor_ct": "A computed tomography scan of the head and neck",
+    "hecktor_pet": "A positron emission tomography scan of the head and neck",
 }
 
 # Dataset-specific class prompts for anatomical structures
