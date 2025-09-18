@@ -154,18 +154,6 @@ Metrics include:
 - Per-class and overall performance
 - Cross-dataset generalization
 
-## 📜 Citation
-
-If you find our work useful in your research, please consider citing our paper:
-
-```bibtex
-@article{saeed2024duplus,
-  title={{DuPLUS: Dual-Prompt Vision-Language Framework for Universal Medical Image Segmentation and Prognosis}},
-  author={Numan Saeed and Tausifa Jan Saleem and Fadillah Adamsyah Maani and Muhammad Ridzuan and Hu Wang and Mohammad Yaqub},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
-}
-```
 
 ## 📄 License
 
